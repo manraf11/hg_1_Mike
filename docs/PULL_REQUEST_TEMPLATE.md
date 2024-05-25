@@ -1,7 +1,7 @@
 # Tipo de usuario
 - [ ] Echo
 - [ ] Bravo
-- [ ] Alfa
+- [x] Alfa
 - [ ] Mike
 - [ ] Delta
 - [ ] Golf
@@ -13,7 +13,7 @@
 - [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
-- [ ] Performance
+- [x] Performance
 - [ ] Testing
 - [ ] Usernames
 - [ ] Codes
