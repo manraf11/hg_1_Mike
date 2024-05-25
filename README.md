@@ -2,7 +2,7 @@
 - [ ] Echo
 - [ ] Bravo
 - [ ] Alfa
-- [ ] Mike
+- [x] Mike
 - [ ] Delta
 - [ ] Golf
 - [ ] Whiskey
@@ -13,7 +13,7 @@
 - [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
-- [ ] Performance
+- [x] Performance
 - [ ] Testing
 - [ ] Usernames
 - [ ] Codes
